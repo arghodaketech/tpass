@@ -23,7 +23,7 @@ Follow the initialisation procedure.
 You can use help command to view the available commands and their functions
 
 ### Deployment and migration
-All the data is stored in 'data' direcotry. When you wish to migrate to a new system just copy the data directory and place it aywhere in the new system. Install and initialise tpass in the new system. When asked to import files during initilisation enter 'y' and give the path to the copied directory and you would be able migrate it to the new system.
+All the data is stored in 'data' directory. When you wish to migrate to a new system just copy the data directory and place it aywhere in the new system. Install and initialise tpass in the new system. When asked to import files during initilisation enter 'y' and give the path to the copied directory and you would be able migrate it to the new system.
 
 ## License
 
