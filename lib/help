@@ -1,0 +1,14 @@
+# tpass  
+Commands : 
+
+     search (s): used to search a credential. It searches all the
+                 credentials. Prints the credential if found. 
+
+     add    (a): adds a credential or group
+
+     update (u): update a credential - update password,add detail,remove
+                 detail, update detail, delete the credential
+
+     group  (g): prints the information of a group
+
+     quit   (q): exit
