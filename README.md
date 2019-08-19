@@ -1,5 +1,5 @@
 # tpass
-It is a python based terminal Password manager for linux. Credentials are stored in 'Groups'. Each group can hold multiple credentials. You can also store additional details attached to a credential in plain text or encrypted format.
+It is a python based terminal Password manager for linux. You can store multiple passwords organised in groups. Credentials are encrypted using AES. You can also store additional details attached to a credential in plain text or encrypted format. Good Practise to store password would be to use the site name as the credential name and store the username as an addtitional detail in encrypted format.
 
 ## Prerequisites
 * Python3
@@ -18,7 +18,7 @@ After successfull installation of dependencies run 'tpass' from a new shell
 ```
 $ tpass
 ```
-And follow the initialisation procedure.
+Follow the initialisation procedure.
 
 You can use help command to view the available commands and their functions
 
